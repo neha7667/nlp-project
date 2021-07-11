@@ -1,4 +1,4 @@
-# Our Mission
+# Introduction
 Spam detection is one of the major applications of Machine Learning in the world today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Spam Mail'.
 In this mission we will be using the Natural Language Processing, which basically consists of combining machine learning techniques with text, and using math and statistics to get that text in a format that the machine learning algorithms can understand. We will also use Naive Bayes algorithm to create a model that can classify SMS messages as spam or not spam, based on the training we give to the model.
 
